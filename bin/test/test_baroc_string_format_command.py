@@ -1,5 +1,5 @@
 from unittest import TestCase
-from bin.baroc_string_format_command import BarocStringFormatCommand
+from bin.command_baroc_string_format import BarocStringFormatCommand
 import random, string
 
 
